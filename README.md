@@ -1,34 +1,14 @@
-## 1. Conceptos Generales
+# Evaluación de Markdown y GitHub Desktop
 
-**¿Qué es un archivo Markdown y para qué sirve?**  
-> Un archivo Markdown es un archivo de texto que sirve para escribir información con formato simple, como títulos, listas, negrita, cursiva y enlaces. Se usa para organizar mejor la información y que sea más fácil de leer.
+## Proceso de Configuración
 
-**¿Cuál es el propósito del archivo README.md en un repositorio de GitHub?**  
-*El archivo README.md sirve para explicar de qué trata el repositorio, qué contiene y cómo se usa. Es como una presentación del proyecto.*
-
----
-
-## 2. Investigación de Sintaxis Markdown
-
-Completa la siguiente guía de referencia con los símbolos correctos:
-
-| Elemento | Sintaxis Markdown (Ejemplo) | Resultado Visual |
-| :--- | :--- | :--- |
-| **Título Nivel 1** | `# Texto` | **Título Grande** |
-| **Título Nivel 2** | `## Texto` | **Título Mediano** |
-| **Texto en Negrita** | `**Texto**` | **Texto** |
-| **Texto en Cursiva** | `*Texto*` | *Texto* |
-| **Lista Desordenada** | `- Elemento` | • Elemento |
-| **Lista Ordenada** | `1. Elemento` | 1. Elemento |
-| **Insertar un Enlace** | `[Nombre](URL)` | [Enlace](https://google.com) |
-
----
-
-## 3. Flujo de Trabajo en GitHub Desktop
-
-**¿Qué diferencia hay entre hacer un "Commit" y hacer un "Push"?**  
-* **Commit:** Es guardar los cambios que hice en mi proyecto.  
-* **Push:** Es subir esos cambios a GitHub.
-
-**¿Para qué sirve el botón "Fetch Origin"?**  
-> El botón "Fetch Origin" sirve para revisar si hay cambios nuevos en GitHub. O sea, te muestra si el repositorio tiene actualizaciones.
+1. Abrí la aplicación GitHub Desktop en mi computadora.
+2. Hice clic en la opción para crear un nuevo repositorio.
+3. Escribí el nombre del repositorio con el formato **Evaluacion-Markdown-NombreApellido**.
+4. Elegí la carpeta donde quería guardar el repositorio en mi computadora.
+5. Creé el repositorio local en GitHub Desktop.
+6. Después de crear el repositorio, revisé que se abriera correctamente.
+7. Luego publiqué el repositorio en mi cuenta de GitHub usando la opción **Publish repository**.
+8. Me aseguré de que el repositorio estuviera configurado como **público**.
+9. Esperé a que GitHub Desktop terminara de subir el repositorio.
+10. Finalmente, entré a GitHub en la web para comprobar que el repositorio ya estaba visible en mi perfil.
